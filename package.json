@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/Templarian/ui.bootstrap.contextMenu/issues"
   },
-  "homepage": "https://github.com/Templarian/ui.bootstrap.contextMenu#readme",
+  "homepage": "https://github.com/adairborba/ui.bootstrap.contextMenu",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-angular-templatecache": "^1.5.0",
