@@ -1,30 +1,33 @@
 {
-    "name": "angular-bootstrap-contextmenu-ab",
-    "version": "1.0.0",
-    "main": [ 
-        "contextMenu.js",
-		"contextMenu.min.js"
-    ],
-    "homepage": "https://github.com/adairborba/ui.bootstrap.contextMenu",
-    "authors": [
-        { "name": "Austin Andrews", "homepage": "http://templarian.com" },
-        { "name": "Adair Borba", "homepage": "adairjr89@gmail.com" }
-    ],
-    "moduleType": [
-		"globals"
-	],
-	"license": ["MIT"],
-    "ignore": [
-        "*.md",
-        "*.json",
-        "*.html"
-    ],
-    "keywords": [
-        "angular",
-        "angularjs",
-        "bootstrap",
-        "context",
-        "menu",
-        "contextmenu"
-    ]
+  "name": "angular-bootstrap-contextmenu-ab",
+  "version": "1.0.1",
+  "homepage": "https://github.com/adairborba/ui.bootstrap.contextMenu",
+  "authors": [
+    "Austin Andrews http://templarian.com",	
+    "Adair Borba <adairjr89@gmail.com>"
+  ],
+  "description": "Context Menu",
+  "main": [
+    "./contextMenu.js",
+	"./contextMenu.min.js"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "angular",
+	"angularjs",
+	"bootstrap",
+	"context",
+	"menu",
+	"contextmenu"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
