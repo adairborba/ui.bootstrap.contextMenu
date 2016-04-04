@@ -9,6 +9,10 @@ AngularJS UI Bootstrap Module for adding context menus to elements. [Demo](http:
 
 [![Example](http://i.imgur.com/U3xybfE.png)](http://codepen.io/templarian/pen/VLKZLB)
 
+## Versão 1.0.0
+
+* Bug Fix: Ao abrir o menu dropdown, era gerado para fora da view, foi redefinido a coordenada Y calculando a partir da altura do body.
+
 ## Usage
 
 Add a reference to `contextMenu.js`. In your app config add `ui.bootstrap.contextMenu` as a dependency module.
